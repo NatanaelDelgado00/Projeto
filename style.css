@@ -63,7 +63,6 @@ body * {
   border-radius: 50%;
   position: absolute;
   top: 50%;
-  left: 0;
   z-index: 1;
   transform: translateY(-50%);
   animation: slide-back 0.4s;
@@ -71,7 +70,7 @@ body * {
 .light #switch button {
   animation: slide-in 0.4s forwards;
 }
-#switch button :houver {
+#switch button:hover {
   outline: 8px solid var(--highlight-color);
 }
 #switch span {
