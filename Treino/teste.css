@@ -50,7 +50,6 @@ body {
 }
 .conteudo {
   position: relative;
-  border: solid red;
   display: flex;
   bottom: 500px;
   width: 1000px;
@@ -82,7 +81,6 @@ body {
   height: 185px;
   top: 600px;
   margin: 200%;
-  border: solid #ff5b50;
   font-size: 25px;
   line-height: 35px;
   font-family: "Montserrat", sans-serif;
@@ -97,6 +95,5 @@ body {
 
 #container {
   background: #393939;
-  border: solid red;
   width: 1000px;
 }
